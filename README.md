@@ -15,13 +15,14 @@ The following tasks have been implemented in this challenge:
 
 ## How to Run the Project
 To run the project, follow the instructions below:
-1. Clone the repository.
-2. Open Remix IDE and create a new file.
-3. Copy and paste the code of the smart contract into the file.
-4. Compile the smart contract using the Solidity compiler.
-5. Deploy the smart contract on a local blockchain or on a testnet.
-6. Test the smart contract by interacting with it using Remix IDE or other compatible tools. 
+1. Clone the repository to your local machine by running the following command:
 
+        $git clone <link of repo>
+        
+2. Make sure Node.js is installed.
+3. In the project directory, open a terminal and run:
+
+        $node MyNFT.js
 
 ## Author
 Me :)
